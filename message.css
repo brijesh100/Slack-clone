@@ -10,8 +10,14 @@ body {
       hsl(183deg 79% 36%) 100%
     );
     height: 100vh;
+    background-color:rgb(117, 0, 128);
   }
-  
+  h3{
+   font-size: x-large;  
+   border:none;
+  color:whitesmoke;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
   .button {
     border: none;
     padding: 0.625em;
